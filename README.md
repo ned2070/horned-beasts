@@ -1,3 +1,11 @@
+For TEch Educators Coding 301
+
+# Objective
+
+To use React.js to produce an app which displays cards showing 3 horned animals.
+
+# Lab 1
+
 Following these instructions (given verbally by Tim Smith and provided in written form by Sam Louloudis) and the Tech Educators Coding 301 Lan Class 1 instructions a new project was created using the template described below. A GitHub repo was then created from it.
 
 1. npm create vite@latest
