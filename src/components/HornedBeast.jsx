@@ -7,23 +7,15 @@ export default function HornedBeast({ title, image_url, description }) {
   // start off not showing SelectedBeast
   const [showSb, setShowSb] = useState(false);
 
-  // Click handler
-  function handleClick() {
-    setLikes(likes + 1);
-    {
-      /* Switches whether SelectedBeast is shown */
-    }
-    {
-      /* If the first value is false the second isn't read */
-    }
-    {
-      showSb && <SelectedBeast handleShowSb={handleShowSb} />;
-    }
-  }
-
   function handleShowSb() {
     // flips the Boolean value of showSb
     setShowSb(!showSb);
+  }
+
+  // Click handler
+  function handleClick() {
+    setLikes(likes + 1);
+    handleShowSb();
   }
 
   // Return element
@@ -32,6 +24,13 @@ export default function HornedBeast({ title, image_url, description }) {
       <h2>{title}</h2>
       <img src={image_url} alt="" onClick={handleClick} />
       <p>{description}</p>
+      <>
+        {/* Switches whether SelectedBeast is shown */}
+
+        {/* If the first value is
+          false the second isn't read */}
+        {showSb && <SelectedBeast handleShowSb={handleShowSb} />}
+      </>
 
       <p>Favourites &hearts;{likes}</p>
     </div>
