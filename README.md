@@ -24,6 +24,7 @@ GitHub
 23/10/2023 Initial setup
 24/10/2023 Header and Footer working
 25/10/2023 Gallery working. Files cleaned up. Edited Readme.
+---------- Gallery now reads data from file
 
 # Template
 

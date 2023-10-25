@@ -1,9 +1,11 @@
-export default function HornedBeast({ title, imageUrl, description }) {
+import "../App.css";
+
+export default function HornedBeast({ title, image_url, description }) {
   return (
     <div className="hornedBeast">
-      <h2></h2>
-      <img src={imageUrl} alt="" title={title}></img>
-      <p> {description} </p>
+      <h2>{title}</h2>
+      <img src={image_url} alt="" />
+      <p>{description}</p>
     </div>
   );
 }
