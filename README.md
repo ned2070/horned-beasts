@@ -29,6 +29,7 @@ GitHub
 # Lab 02
 
 25/10/2023 Copied from Lab 01. Replace data file with provided one. This essentially completes feature 1.
+---------- Feature 2 complete.
 
 Number and name of feature: 1. Display Images
 
@@ -46,9 +47,9 @@ Estimate of time needed to complete:
 
 Start time: 19:30
 
-Finish time:
+Finish time: 21:10
 
-Actual time needed to complete: **\_**
+Actual time needed to complete: 1 hr 40 min
 
 # Template
 
