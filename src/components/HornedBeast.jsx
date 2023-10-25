@@ -1,5 +1,3 @@
-import "../App.css";
-
 export default function HornedBeast({ title, image_url, description }) {
   return (
     <div className="hornedBeast">
