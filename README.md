@@ -1,4 +1,4 @@
-For TEch Educators Coding 301
+For Tech Educators Coding 301
 
 # Objective
 
@@ -20,6 +20,10 @@ GitHub
 1. Create an empty repository (do NOT add a README.md file)
 2. Follow the 'push an existing repository from your computer 'instructions on github
 3. You may need to go git add . and git commit -m 'message' before you can push
+
+23/10/2023 Initial setup
+24/10/2023 Header and Footer working
+25/10/2023 Gallery working. Files cleaned up. Edited Readme.
 
 # Template
 
