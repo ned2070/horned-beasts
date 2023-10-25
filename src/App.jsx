@@ -4,7 +4,7 @@ import Header from "./components/Header";
 import Footer from "./components/Footer";
 import Gallery from "./components/Gallery";
 
-import beastS from "./assets/beastS";
+import beastS from "./assets/data";
 
 function App() {
   return (
