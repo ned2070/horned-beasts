@@ -4,7 +4,7 @@ For Tech Educators Coding 301
 
 To use React.js to produce an app which displays cards showing 3 horned animals.
 
-# Lab 1
+# Lab 01
 
 Following these instructions (given verbally by Tim Smith and provided in written form by Sam Louloudis) and the Tech Educators Coding 301 Lan Class 1 instructions a new project was created using the template described below. A GitHub repo was then created from it.
 
@@ -50,6 +50,20 @@ Start time: 19:30
 Finish time: 21:10
 
 Actual time needed to complete: 1 hr 40 min
+
+# Lab 03
+
+Number and name of feature: 1. Display A Model
+
+Estimate of time needed to complete: 2 hrs
+
+Start time: 21:30
+
+Finish time:
+
+Actual time needed to complete:
+
+25/10/23 23:30 On/off workingm but need to show modal page and fix image sizes
 
 # Template
 
