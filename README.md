@@ -26,6 +26,31 @@ GitHub
 25/10/2023 Gallery working. Files cleaned up. Edited Readme.
 ---------- Gallery now reads data from file
 
+# Lab 02
+
+25/10/2023 Copied from Lab 01. Replace data file with provided one. This essentially completes feature 1.
+---------- Feature 2 complete.
+
+Number and name of feature: 1. Display Images
+
+Estimate of time needed to complete: 10 min
+
+Start time: 18:45
+
+Finish time: 19:05
+
+Actual time needed to complete: 20 min
+
+Number and name of feature: 2. Allow Users to Favorite Individual Beasts
+
+Estimate of time needed to complete:
+
+Start time: 19:30
+
+Finish time: 21:10
+
+Actual time needed to complete: 1 hr 40 min
+
 # Template
 
 # React + Vite
