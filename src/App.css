@@ -2,12 +2,6 @@ img {
   max-width: 200px;
 }
 
-.gallery {
-  display: flex;
-  flex-direction: column;
-  justify-content: right;
-}
-
 .selectedBeast {
   display: flex;
   flex-direction: column;
