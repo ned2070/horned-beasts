@@ -26,7 +26,7 @@ function App() {
     setShowSb(!showSb);
     setShowSbModal(beastS);
     // Test if showSb flip is working
-    console.log(showSb);
+    // console.log(showSb);
   }
 
   return (

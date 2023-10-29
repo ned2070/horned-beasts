@@ -1,3 +1,5 @@
+// Returns image gallery to App
+
 import HornedBeast from "./HornedBeast";
 
 export default function Gallery({ beastS, handleShowSb, horns }) {

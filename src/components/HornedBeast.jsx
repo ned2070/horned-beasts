@@ -1,3 +1,5 @@
+// Returns each image to Gallery
+
 import { useState } from "react";
 
 export default function HornedBeast({
