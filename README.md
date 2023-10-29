@@ -66,11 +66,25 @@ Actual time needed to complete: 6 hrs
 25/10/23 23:30 On/off workingm but need to show modal page and fix image sizes
 27/10/23 Working but not styled due to time constraints
 
-# Lighthouse Report
+# Lab 03 Lighthouse Report
 
 Accessibility 100%
 
 Screenshot from 2023-10-29 11-19-01.png
+
+# Lab 04
+
+Number and name of feature: 1. Display A Model
+
+Estimate of time needed to complete: 2 hrs
+
+Start time: 10:30 28/10/23
+
+Finish time: 29/10/2023
+
+Actual time needed to complete:
+
+29/10/23 Working but not styled
 
 # Template
 
