@@ -42,9 +42,11 @@ function App() {
         <option value="3">3</option>
         <option value="100">100</option>
       </select>
+      <h2> Gallery</h2>
+      <p> Click on image to enlarge</p>
       <Gallery beastS={beastS} horns={horns} handleShowSb={handleShowSb} />
       <Footer />
-      {/* Show Selected Beast if shoeSb === true */}
+      {/* Show Selected Beast if showSb === true */}
       {showSb && (
         <SelectedBeast showSbModal={showSbModal} handleShowSb={handleShowSb} />
       )}

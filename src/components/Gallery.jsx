@@ -9,8 +9,6 @@ export default function Gallery({ beastS, handleShowSb, horns }) {
 
   return (
     <div className="gallery">
-      <h2>Gallery</h2>
-
       {hornsFiltered.map((beastS) => {
         return (
           <HornedBeast
